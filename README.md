@@ -2,6 +2,7 @@ I am a Master's student at the Pattern Recognition and Intelligent System Labora
 
 # 🔥 News
 
+- **2023-05**: 🎉🎉 Two paper have been accepted by ACL 2023!
 - **2022-10**: 🎉🎉 One paper has been accepted at the SereTOD 2022 Workshop, EMNLP 2022!
 - **2022-09**: 🏆🏆 Achieved the 1st rank on SereTOD 2022 track 2, EMNLP 2022!
 - **2022-05**: 🎉🎉 One paper is accepted by SIGIR 2022!
