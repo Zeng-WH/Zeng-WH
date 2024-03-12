@@ -1,5 +1,9 @@
 I am **Weihao Zeng**, a postgraduate student at the Pattern Recognition and Intelligent System Laboratory([PRIS-NLP](https://pris-nlp.github.io/en/#hero)), Beijing University of Posts and Telecommunications, advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/). I am also a Research Assistant at the Hong Kong University of Science and Technology, supervised by [Prof. Junxian He](https://jxhe.github.io/). Previously, I obtained my Bachelor's degree from the Mathematics Department of the same university. My research interests include **large language models(LLMs), instruction tuning, and dialogue systems**. I have published several papers at top conferences, including ACL, ICLR, SIGIR, EMNLP, and NAACL.
 
+Feel free to email me for any form of academic cooperation !
+
+**I am actively seeking PhD Program opportunities for the Fall of 2025 ^_^**
+
 # 🔥 News
 
 - **2024-02**: 🎉🎉 One paper have been accepted by LREC-COLING 2024!
