@@ -6,6 +6,7 @@ Feel free to email me for any form of academic cooperation !
 
 # 🔥 News
 
+- **2024-03**: 🎉🎉 One paper have been accepted by NAACL 2024!
 - **2024-02**: 🎉🎉 One paper have been accepted by LREC-COLING 2024!
 - **2024-01**: 🎉🎉 One paper have been accepted by ICLR 2024!
 - **2023-05**: 🎉🎉 Two paper have been accepted by ACL 2023!
@@ -32,38 +33,45 @@ Feel free to email me for any form of academic cooperation !
    
     **ICLR 2024**  [paper](https://arxiv.org/abs/2312.15685)
 
-4. BootTOD: Bootstrap Task-oriented Dialogue Representations by Aligning Diverse Responses
+4. DivTOD: Unleashing the Power of LLMs for Diversifying Task-Oriented Dialogue Representations
+
+    **Weihao Zeng**, Dayuan Fu, Keqing He, Yejie Wang, Yukai Xu, Weiran Xu
+
+   **NAACL 2024** [paper](https://arxiv.org/abs/2404.00557)
+   
+
+6. BootTOD: Bootstrap Task-oriented Dialogue Representations by Aligning Diverse Responses
 
    **Weihao Zeng**, Keqing He, Yejie Wang, Dayuan Fu, Weiran Xu
 
    **LREC-COLING 2024** [paper](https://arxiv.org/abs/2403.01163)
    
    
-6. Semi-Supervised Knowledge-Grounded Pre-training for Task-Oriented Dialog Systems 
+7. Semi-Supervised Knowledge-Grounded Pre-training for Task-Oriented Dialog Systems 
 
    **Weihao Zeng**, Keqing He, Zechen Wang, Dayuan Fu, Guanting Dong, Ruotong Geng, Pei Wang, Jingang Wang, Chaobo Sun, Wei Wu, Weiran Xu
    
    **SereTOD 2022 WorkShop, EMNLP 2022**   [paper](https://aclanthology.org/2022.seretod-1.6.pdf)
    
-7. ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement   
+8. ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement   
 
    Lulu Zhao, Fujia Zheng, **Weihao Zeng**, Keqing He, Ruotong Geng, Huixing Jiang, Wei Wu, Weiran Xu
    
    **SIGIR 2022** [paper](https://dl.acm.org/doi/10.1145/3477495.3531933) 
    
-8. Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization
+9. Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization
 
    Lulu Zhao, Fujia Zheng, **Weihao Zeng**, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu
    
    **NAACL 2022** [paper](https://aclanthology.org/2022.naacl-main.357.pdf)
    
-9. Give the Truth: Incorporate Semantic Slot into Abstractive Dialogue Summarization
+10. Give the Truth: Incorporate Semantic Slot into Abstractive Dialogue Summarization
 
    Lulu Zhao, **Weihao Zeng**, Weiran Xu, Jun Guo
    
-   **EMNLP 2021** [paper](https://pdfs.semanticscholar.org/bbc4/08a278613621e107b2d3caff06edbd688d80.pdf?_gl=1*qle2t2*_ga*MTY2NzMzNzY4Ny4xNjc5ODg1NDQ3*_ga_H7P4ZT52H5*MTY4MTYzNTMwNC4zNC4xLjE2ODE2MzY4MTMuMC4wLjA.)
+   **EMNLP 2021** [paper](https://aclanthology.org/2021.findings-emnlp.209.pdf)
    
-10. TODSum: Task-Oriented Dialogue Summarization with State Tracking
+11. TODSum: Task-Oriented Dialogue Summarization with State Tracking
 
     Lulu Zhao, Fujia Zheng, Keqing He, **Weihao Zeng**, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng
    
