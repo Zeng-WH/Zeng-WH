@@ -58,27 +58,7 @@ Feel free to email me for any form of academic cooperation !
    **SereTOD 2022 WorkShop, EMNLP 2022**   [paper](https://aclanthology.org/2022.seretod-1.6.pdf)
    
    
-11. **ADPL: Adversarial Prompt-based Domain Adaptation for Dialogue Summarization with Knowledge Disentanglement** 
 
-   Lulu Zhao, Fujia Zheng, **Weihao Zeng**, Keqing He, Ruotong Geng, Huixing Jiang, Wei Wu, Weiran Xu
-   
-   **SIGIR 2022** [paper](https://dl.acm.org/doi/10.1145/3477495.3531933)
-
-
-11. **Domain-Oriented Prefix-Tuning: Towards Efficient and Generalizable Fine-tuning for Zero-Shot Dialogue Summarization**  
-   Lulu Zhao, Fujia Zheng, **Weihao Zeng**, Keqing He, Weiran Xu, Huixing Jiang, Wei Wu, Yanan Wu  
-   NAACL 2022  
-   [paper](https://aclanthology.org/2022.naacl-main.357.pdf)
-
-12. **Give the Truth: Incorporate Semantic Slot into Abstractive Dialogue Summarization**  
-   Lulu Zhao, **Weihao Zeng**, Weiran Xu, Jun Guo  
-   EMNLP 2021  
-   [paper](https://aclanthology.org/2021.findings-emnlp.209.pdf)
-
-13. **TODSum: Task-Oriented Dialogue Summarization with State Tracking**  
-   Lulu Zhao, Fujia Zheng, Keqing He, **Weihao Zeng**, Yuejie Lei, Huixing Jiang, Wei Wu, Weiran Xu, Jun Guo, Fanyu Meng  
-   Arxiv 2022  
-   [paper](https://arxiv.org/pdf/2110.12680.pdf)
 
    
 # 🎖 Competitions and Awards
