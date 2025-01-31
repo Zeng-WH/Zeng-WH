@@ -4,15 +4,21 @@ Feel free to email me for any form of academic cooperation: zengweihao96@gmail.c
 
 # 🔥 News
 
+- **2025-01**: 🎉🎉 One paper have been accepted by ICLR 2025!
 - **2024-09**: 🎉🎉 One paper have been accepted by EMNLP 2024!
 - **2024-03**: 🎉🎉 One paper have been accepted by NAACL 2024!
-- **2024-02**: 🎉🎉 One paper have been accepted by LREC-COLING 2024!
 - **2024-01**: 🎉🎉 One paper have been accepted by ICLR 2024!
 - **2023-05**: 🎉🎉 Two paper have been accepted by ACL 2023!
-- **2022-09**: 🏆🏆 Achieved the 1st rank on SereTOD 2022 track 2, EMNLP 2022!
+
 
 
 # 📝 Publications 
+
+1. **B-STAR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**
+
+   **Weihao Zeng***, Yuzhen Huang*, Lulu Zhao, Yijun Wang, Zifei Shan, Junxian He
+
+   **ICLR 2025**  [paper](https://arxiv.org/abs/2412.17256)
 
 1. **FutureTOD: Teaching Future Knowledge to Pre-trained Language Model for Task-Oriented Dialogue**
 
@@ -42,21 +48,6 @@ Feel free to email me for any form of academic cooperation: zengweihao96@gmail.c
     **Weihao Zeng**, Dayuan Fu, Keqing He, Yejie Wang, Yukai Xu, Weiran Xu
 
    **NAACL 2024** [paper](https://arxiv.org/abs/2404.00557)
-   
-
-8. **BootTOD: Bootstrap Task-oriented Dialogue Representations by Aligning Diverse Responses**
-
-   **Weihao Zeng**, Keqing He, Yejie Wang, Dayuan Fu, Weiran Xu
-
-   **LREC-COLING 2024** [paper](https://arxiv.org/abs/2403.01163)
-   
-   
-9. **Semi-Supervised Knowledge-Grounded Pre-training for Task-Oriented Dialog Systems**
-
-   **Weihao Zeng**, Keqing He, Zechen Wang, Dayuan Fu, Guanting Dong, Ruotong Geng, Pei Wang, Jingang Wang, Chaobo Sun, Wei Wu, Weiran Xu
-   
-   **SereTOD 2022 WorkShop, EMNLP 2022**   [paper](https://aclanthology.org/2022.seretod-1.6.pdf)
-   
    
 
 
