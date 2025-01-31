@@ -1,6 +1,6 @@
 I am **Weihao Zeng**, an incoming PhD student supervised by [Prof. Junxian He](https://jxhe.github.io/) at the Hong Kong University of Science and Technology starting in the fall of 2025. My research interests primarily focus on large language model alignment, encompassing **SFT data engineering** and exploration of model **reasoning capabilities**. Previously, I focused on task-oriented dialogue systems, including dialogue pre-training. I have published several papers at NLP conferences such as ACL, ICLR, SIGIR, EMNLP, and NAACL.
 
-Feel free to [email](zengweihao96@gmail.com) me for any form of academic cooperation !
+Feel free to email me for any form of academic cooperation: zengweihao96@gmail.com
 
 # 🔥 News
 
