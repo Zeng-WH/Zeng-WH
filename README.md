@@ -1,4 +1,10 @@
-I am **Weihao Zeng**, an incoming PhD student supervised by [Prof. Junxian He](https://jxhe.github.io/) at the Hong Kong University of Science and Technology starting in the fall of 2025. My research interests primarily focus on large language model alignment, encompassing **SFT data engineering** and exploration of model **reasoning capabilities**. Previously, I focused on task-oriented dialogue systems, including dialogue pre-training. I have published several papers at NLP conferences such as ACL, ICLR, SIGIR, EMNLP, and NAACL.
+I am **Weihao Zeng**, an incoming PhD student supervised by [Prof. Junxian He](https://jxhe.github.io/) at the Hong Kong University of Science and Technology starting in the fall of 2025. 
+
+My main focus is on the post-training aspect of LLMs, specifically including:
+
+- Improving model reasoning capabilities using reinforcement learning (RL) / self-evolution techniques ([**SimpleRL**](https://hkust-nlp.notion.site/simplerl-reason), [**B-STaR**](https://arxiv.org/abs/2412.17256))
+- Exploring efficient data engineering methods for post-training ([**Deita**](https://arxiv.org/abs/2312.15685), [**Auto Evol-Instruct**](https://arxiv.org/abs/2406.00770))
+- The application of LLMs in task-oriented dialogue systems (FutureTOD, Seen2UnSeen)
 
 Feel free to email me for any form of academic cooperation: zengweihao96@gmail.com
 
