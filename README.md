@@ -10,15 +10,28 @@ Feel free to email me for any form of academic cooperation: zengweihao96@gmail.c
 
 # 🔥 News
 
+
+- **2025-01**: Announce our latest effort on O/R-1 Style Model and Scalable Reinforcement Learning for LLM Reasoning! [SimpleRL](https://hkust-nlp.notion.site/simplerl-reason) [Twitter](https://x.com/junxian_he/status/1883183099787571519)
 - **2025-01**: 🎉🎉 One paper have been accepted by ICLR 2025!
 - **2024-09**: 🎉🎉 One paper have been accepted by EMNLP 2024!
-- **2024-03**: 🎉🎉 One paper have been accepted by NAACL 2024!
 - **2024-01**: 🎉🎉 One paper have been accepted by ICLR 2024!
 - **2023-05**: 🎉🎉 Two paper have been accepted by ACL 2023!
 
 
 
 # 📝 Publications 
+
+1. **SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild**
+
+   **Weihao Zeng***, Yuzhen Huang*, Qian Liu, Wei Liu, Keqing He, Zejun Ma, Junxian He
+
+   **Preprint** [SimpleRL-Zoo](https://arxiv.org/abs/2503.18892) [Github](https://github.com/hkust-nlp/simpleRL-reason)
+
+1. **7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient**
+
+   **Weihao Zeng***, Yuzhen Huang*, Wei Liu, Keqing He, Qian Liu, Zejun Ma, Junxian He
+
+   **Preprint** [SimpleRL](https://hkust-nlp.notion.site/simplerl-reason) [Twitter](https://x.com/junxian_he/status/1883183099787571519) [Github](https://github.com/hkust-nlp/simpleRL-reason/tree/v0)
 
 1. **B-STAR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners**
 
@@ -49,14 +62,8 @@ Feel free to email me for any form of academic cooperation: zengweihao96@gmail.c
 
    **EMNLP 2024** [paper](https://arxiv.org/abs/2406.00770)
 
-7. **DivTOD: Unleashing the Power of LLMs for Diversifying Task-Oriented Dialogue Representations**
 
-    **Weihao Zeng**, Dayuan Fu, Keqing He, Yejie Wang, Yukai Xu, Weiran Xu
-
-   **NAACL 2024** [paper](https://arxiv.org/abs/2404.00557)
-   
-
-
+Full Publications on [Google Scholar](https://scholar.google.com.hk/citations?user=EXSJgXIAAAAJ&hl=zh-CN)
    
 # 🎖 Competitions and Awards
 
